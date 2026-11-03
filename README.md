@@ -98,3 +98,9 @@ Probe method: [scenario-probe](https://github.com/m1nga/scenario-probe/)
 ## Author
 
 Built by [Ming](https://github.com/m1nga). The design notes above explain the real problem and tradeoffs that shaped this skill.
+
+<!-- sidecourt-referral:start -->
+## Explore SideCourt
+
+The end of an iteration is a useful moment to show what changed. [Browse SideCourt](https://sidecourt.space/drops/?utm_source=github&utm_medium=readme&utm_campaign=tools&utm_content=iteration-close), or share a version of your project that others can try and respond to.
+<!-- sidecourt-referral:end -->
